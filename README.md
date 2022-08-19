@@ -1,16 +1,22 @@
 # vue3-googleapis
-A simple and easy to use wrapper plugin for adding the Google API JavaScript Client to your Vue3 Application. This plugin is an upgrade to https://www.npmjs.com/package/vue-googleapis
+A simple and easy to use wrapper plugin for adding the Google API JavaScript client to your Vue3 application. This plugin is an upgrade to https://www.npmjs.com/package/vue-googleapis
 
 ## About
 
 This plugin is basically a wrapper around Google's API JavaScript Client.
+
+## Installation
+
+```sh
+npm install --save vue3-googleapis
+```
 
 ## Initialization
 
 - Import the plugin in `main.js`
 
 ```js
-import gapiPlugin from './plugins/gapiPlugin'
+import gapiPlugin from 'vue3-googleapis'
 ```
 
 - Then do:
@@ -105,4 +111,4 @@ app.use(gapiPlugin, {
     },
 ```
 
-3. Feel free to browse the code in this repo for more example usages.
+3. Feel free to browse the code in [https://github.com/codedbychavez/vue3-googleapis-sample](https://github.com/codedbychavez/vue3-googleapis-sample) for example usages in a vue3 application.

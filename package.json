@@ -1,0 +1,29 @@
+{
+  "name": "vue3-googleapis",
+  "version": "1.0.0",
+  "description": "A wrapper plugin for adding the Google API JavaScript client to your Vue3 application. This plugin is an upgrade to https://www.npmjs.com/package/vue-googleapis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codedbychavez/vue3-googleapis.git"
+  },
+  "keywords": [
+    "google",
+    "google",
+    "javascript",
+    "client",
+    "google",
+    "api",
+    "vue",
+    "plugin"
+  ],
+  "author": "Chavez Harris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codedbychavez/vue3-googleapis/issues"
+  },
+  "homepage": "https://github.com/codedbychavez/vue3-googleapis#readme"
+}
