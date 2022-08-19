@@ -1,4 +1,7 @@
 # vue3-googleapis
+
+[![npm version](https://badge.fury.io/js/vue3-googleapis.svg)](https://www.npmjs.com/package/vue3-googleapis)
+
 A simple and easy to use wrapper plugin for adding the Google API JavaScript client to your Vue3 application. This plugin is an upgrade to https://www.npmjs.com/package/vue-googleapis
 
 ## About
